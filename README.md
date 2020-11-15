@@ -1,2 +1,2 @@
 # LFU Cache
-LFU Cache Javascript version
+LFU(Least Frequently Used) Cache Javascript version
