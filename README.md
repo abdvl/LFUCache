@@ -1,2 +1,2 @@
-# LFUCache
-LFUCache Javascript version
+# LFU Cache
+LFU Cache Javascript version
